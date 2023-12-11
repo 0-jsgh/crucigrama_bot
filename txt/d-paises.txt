@@ -18,3 +18,4 @@
 "grecia":"Cuna de la civilización antigua con monumentos como el Partenón."
 "nigeria":"País africano más poblado del continente."
 "noruega":"País escandinavo conocido por sus impresionantes fiordos y auroras boreales."
+"bielorrusia":"País de Europa del Este, conocido por su extensa llanura, cuya capital es Minsk."
