@@ -47,3 +47,4 @@
 "ajo":"Bulbo compuesto de dientes con sabor fuerte y utilizado como condimento."
 "espinaca":"Hoja verde rica en hierro, utilizada en ensaladas y platillos cocidos."
 "pimiento":"Fruto carnoso y generalmente dulce, de colores variados, utilizado en la cocina."
+"hamburguesa":"Plato compuesto por carne molida entre dos panes, generalmente acompañado de diversos ingredientes como lechuga, tomate, queso y salsas."
